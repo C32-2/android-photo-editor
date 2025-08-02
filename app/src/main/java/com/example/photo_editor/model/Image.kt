@@ -1,4 +1,4 @@
-package com.example.photo_editor.domain.model
+package com.example.photo_editor.model
 
 import android.graphics.Bitmap
 
